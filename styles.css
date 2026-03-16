@@ -1,0 +1,7 @@
+.tab-layout-item {
+  background: var(--background-secondary);
+}
+
+.tab-layout-item button {
+  cursor: pointer;
+}

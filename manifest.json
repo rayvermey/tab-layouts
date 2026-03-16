@@ -1,0 +1,9 @@
+{
+  "id": "tab-layouts",
+  "name": "Tab Layouts",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Save and restore sidebar layouts per tab. Switch to a pinned tab and automatically show/hide sidebars.",
+  "author": "Ray",
+  "isDesktopOnly": false
+}
